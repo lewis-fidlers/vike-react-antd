@@ -5,7 +5,7 @@ bun create bati --react --eslint --prettier
 ```
 
 # About this app
-This app is ready to start. It's powered by [Vike](https://vike.dev) and [React](https://react.dev/learn).
+This app is ready to start. It's powered by [Vike](https://vike.dev) and [React](https://react.dev/learn) while also implementing [ant design](https://ant.design/).
 
 ### `/pages/+config.ts`
 
