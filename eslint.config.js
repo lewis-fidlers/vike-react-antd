@@ -50,7 +50,7 @@ export default tseslint.config(
         ...globals.browser,
       },
     },
-
+    allowImportingTsExtensions: true,
     settings: {
       react: {
         version: "detect",

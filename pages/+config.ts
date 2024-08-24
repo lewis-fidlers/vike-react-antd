@@ -2,9 +2,11 @@ import vikeReact from "vike-react/config";
 import type { Config } from "vike/types";
 import Head from "../layouts/HeadDefault.js";
 import Layout from "../layouts/LayoutDefault.js";
+import Wrapper from "../components/Wrapper.tsx";
 
 // Default config (can be overridden by pages)
 export default {
+  Wrapper,
   Layout,
   Head,
 
